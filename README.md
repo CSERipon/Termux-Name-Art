@@ -6,7 +6,7 @@
 
   <pre><b>How To Install This Tool:</b>
   1. pkg install python
-  2. pkg figlet
+  2. pkg install figlet
   3. curl https://raw.githubusercontent.com/CSERipon/Termux-Name-Art/main/termux.py>termux.py
   4. python termux.py
   </pre>
